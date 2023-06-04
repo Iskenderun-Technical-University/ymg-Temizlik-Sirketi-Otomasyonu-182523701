@@ -4,8 +4,8 @@
 
 
 
-Bu Proje Bir temizlik şirketinin personel ve yöneticilerinin kullanımı amacı ile tasarlanmıştır.
+Bu Proje Bir temizlik şirketinin personelinin kullanımı amacı ile tasarlanmıştır.
 Otomasyonu kullanan personel müşterinin hizmet talebi üzerine müşteri bilgilerini ve adres bilgilerini otomasyona girer ve hizmet talebini onaylar.
-Yönetici yeni personel hesabı oluşturabilir ve geçmiş işlemleri görüntüleyip düzenleyebilir.
+Geçmiş işlemleri görüntüleyip düzenleyebilir.
 
 ![Use-Case](https://user-images.githubusercontent.com/53277396/235655635-3cb75ec0-0d82-4942-b2ad-44c366faf0b6.jpg)
